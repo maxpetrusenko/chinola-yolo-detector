@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+data/raw/
+data/processed/
+runs/
+outputs/
+*.mp4
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.pt
+!models/*.pt
+.DS_Store

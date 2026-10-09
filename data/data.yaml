@@ -1,0 +1,6 @@
+# Point `path` at your local dataset folder (not included in this repository).
+path: data/processed/kaggle-health-gemini-passion-reviewed
+train: images/train
+val: images/val
+names:
+  0: passion_fruit

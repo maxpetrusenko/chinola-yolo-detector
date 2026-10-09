@@ -1,0 +1,5 @@
+Re-run on 2026-10-09 with Ultralytics 8.4.174, CPU:
+yolo val model=models/passion-fruit-yolo11n.pt data=data/data.yaml
+
+ Class     Images  Instances      Box(P          R      mAP50  mAP50-95)
+   all         14         29      0.946      0.759      0.825      0.682

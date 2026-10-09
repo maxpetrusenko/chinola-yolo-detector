@@ -1,0 +1,10 @@
+ultralytics>=8.3
+opencv-python
+pandas
+requests
+Pillow
+openai
+PyYAML
+google-genai
+gdown
+kaggle
